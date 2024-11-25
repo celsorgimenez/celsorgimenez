@@ -1,16 +1,21 @@
-## Hi there 👋
+### Olá, meu nome é Celso
+Analista de dados
 
-<!--
-**celsorgimenez/celsorgimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧗🏼***Apaixonado*** por tecnologia e automobilismo
+- 🖥️ Atualmente focado em:
+<div display="inline">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+          
+  
+</div>
 
-Here are some ideas to get you started:
+### Você tambem me encontra em:
+<a href="https://www.linkedin.com/in/celso-gimenez/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
