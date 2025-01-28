@@ -1,5 +1,5 @@
 ### Olá, meu nome é Celso
-Analista de dados
+***Analista de dados*** \
 ***Sempre lembrando que o simples é melhor que o complexo***
 
 - 🧗🏼***Apaixonado*** por tecnologia e automobilismo
