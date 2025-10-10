@@ -4,7 +4,7 @@
 **Se aventurando em Inteligencia artificial** \
 ***Sempre lembrando que o simples é melhor que o complexo***
 
-- 🧗🏼**Apaixonado por minha familia, tecnologia e automobilismo**
+- 🧗🏼**Apaixonado pela minha familia, tecnologia e automobilismo**
 - 🖥️ Atualmente focado em:
 <div display="inline">
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
