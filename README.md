@@ -1,6 +1,6 @@
 ### Olá, meu nome é Celso
 **Coordenador de Infraestrutura de Ti** \
-**Pós Graduando em CyberSegurança** \
+**MBA Gestão Estratégica de TI ** \
 **Se aventurando em Inteligencia artificial** \
 ***Sempre lembrando que o simples é melhor que o complexo***
 
